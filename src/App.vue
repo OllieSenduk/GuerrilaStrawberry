@@ -1,11 +1,12 @@
 <template>
   <div id="app">
+    <appHeader1></appHeader1>
       <!-- <appLoading v-if="isLoading"></appLoading> -->
-      <div >
+      <!-- <div >
         <appHeader></appHeader>
         <appAbout></appAbout>
         <appPandaChat></appPandaChat>
-      </div>
+      </div> -->
 
   </div>
 </template>
@@ -15,6 +16,7 @@ import PandaChat from './components/PandaChat'
 import Header from './components/Header'
 import About from './components/About'
 import Loading from './components/Loading'
+import Header1 from './components/Header1'
 import Vue from 'vue';
 
 export default {
@@ -23,7 +25,8 @@ export default {
     appPandaChat: PandaChat,
     appHeader: Header,
     appAbout: About,
-    appLoading: Loading
+    appLoading: Loading,
+    appHeader1: Header1
   },
   data: function () {
     return {

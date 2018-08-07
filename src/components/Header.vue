@@ -237,22 +237,22 @@ export default {
    100% {color:#414789; left:0px; top:0px;}
   }
 
-  // @keyframes displayScreen {
-  //   0%{
-  //     -webkit-transform: translate(0%);
-  //     background-color: white;
-  //   }
-  //   25%{-webkit-transform: translate(100%);
-  //   background-color: black;
-  // }
-  // 50% {
-  //   -webkit-transform: translate(100%);
-  //   background-color: white
-  // }
-  //   100%{-webkit-transform: translate(100%);
-  //     display: none
-  //     ;}
-  // }
+  @keyframes displayScreen {
+    0%{
+      -webkit-transform: translate(0%);
+      background-color: white;
+    }
+    25%{-webkit-transform: translate(100%);
+    background-color: black;
+  }
+  50% {
+    -webkit-transform: translate(100%);
+    background-color: white
+  }
+    100%{-webkit-transform: translate(100%);
+      display: none
+      ;}
+  }
 
   // @keyframes createScreen {
   //   0% {
