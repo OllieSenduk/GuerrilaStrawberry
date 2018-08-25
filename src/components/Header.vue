@@ -3,7 +3,7 @@
     <div class="header__strawberry">
       <img src="@/assets/str.png" alt="" class="deco-img-home">
     </div>
-    <div class="header__container">
+    <div class="container">
       <div class="header__tagline">
         <h1>Guerrilla Strawberry</h1>
         <h2>
@@ -52,7 +52,7 @@ export default {
 }
 </script>
 
-<style lang="css" scoped>
+<style lang="scss" scoped>
 
 h2 {
   font-family: TungstenNarrow-Semibold;
@@ -68,11 +68,9 @@ h2 {
 h1 {
   margin-top: 20px;
   margin-bottom: 5px;
-  opacity: 0.8;
-  font-size: 20px;
-  font-family: TungstenNarrow-Semibold;
-  letter-spacing: 7px;
-  font-weight: 100;
+  opacity: 1;
+  font-weight: 800;
+  font-size: 10px;
 }
 
 h6 {
@@ -84,10 +82,6 @@ h6 {
 p {
   line-height: 20px;
   letter-spacing: 1px;
-}
-
-.header__container {
-  margin-top: 30%;
 }
 
 .header {
