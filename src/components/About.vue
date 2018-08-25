@@ -40,6 +40,10 @@ export default {
 
 <style lang="scss" scoped>
 
+  h2 {
+    margin-top: 0px;
+  }
+
   .about__container {
     height: 100vh;
     width: 100vw;
