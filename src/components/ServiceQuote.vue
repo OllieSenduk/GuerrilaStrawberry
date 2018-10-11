@@ -59,7 +59,7 @@ $base-line-height: 1.5em;
     left: 2px;
     color: #e7e6e4;
     font-size: 8em;
-    z-index: -1;
+    z-index: -2;
    }
 }
 

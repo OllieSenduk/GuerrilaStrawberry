@@ -98,7 +98,6 @@ a {
 .content__container {
   margin-left: 10%;
   margin-right: 10%;
-  margin-top: 20px;
   margin-bottom: 60px;
 }
 

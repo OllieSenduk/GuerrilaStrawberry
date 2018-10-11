@@ -19,6 +19,7 @@
     "vue": "^2.5.2",
     "vue-css-grid": "^1.0.1",
     "vue-router": "^3.0.1",
+    "vue-videobg": "^2.0.0",
     "vue2-animate": "^2.0.0"
   },
   "devDependencies": {
