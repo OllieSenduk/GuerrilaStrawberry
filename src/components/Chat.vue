@@ -1,4 +1,4 @@
-<template lang="html">
+<!-- <template lang="html">
   <div class="chat-container">
     <div class="chat-1" id="chat1">
       <p> Welcome to Space Pandas  </p>
@@ -134,4 +134,4 @@ export default {
     }
   }
 }
-</style>
+</style> -->

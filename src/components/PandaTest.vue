@@ -1,4 +1,4 @@
-<template lang="html">
+<!-- <template lang="html">
 <div class="">
 
       <div class="panda">
@@ -285,4 +285,4 @@ export default {
   //     width: auto;
   //   }
   // }
-</style>
+</style> -->

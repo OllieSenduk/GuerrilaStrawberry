@@ -1,11 +1,11 @@
-<template lang="html">
+<!-- <template lang="html">
   <!--
   VIEW IN FULL SCREEN MODE
   FULL SCREEN MODE: http://salehriaz.com/404Page/404.html
 
   DRIBBBLE: https://dribbble.com/shots/4330167-404-Page-Lost-In-Space
   -->
-
+<!--
  <section class="bg-purple">
     <div class="stars">
         <div class="central-body">
@@ -384,4 +384,4 @@ li a:hover {
         padding-top: 25%;
     }
 }
-</style>
+</style> --> -->

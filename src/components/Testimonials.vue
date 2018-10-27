@@ -1,4 +1,4 @@
-<template lang="html">
+<!-- <template lang="html">
   <section class="testimonials" id="testimonials">
     <div class="section__container testimonials__background">
       <div class="header testimonials__header">
@@ -156,4 +156,4 @@ export default {
   }
 }
 
-</style>
+</style> -->

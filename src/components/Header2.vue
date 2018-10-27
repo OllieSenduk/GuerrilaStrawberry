@@ -1,4 +1,4 @@
-<template lang="html">
+<!-- <template lang="html">
   <section class="header">
     <div class="screenEnters">
 
@@ -283,4 +283,4 @@ export default {
     }
   }
 
-</style>
+</style> -->
